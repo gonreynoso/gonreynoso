@@ -1,5 +1,5 @@
-                     👋 Hello!, I am Gonzalo Reynoso!
-<br>I'm a Full Stack Developer from CABA, Buenos Aires, Argentina.<br>
+<br>              👋 Hello!, I am Gonzalo Reynoso!
+I'm a Full Stack Developer from CABA, Buenos Aires, Argentina.<br>
 <br>I am 30 years old and consider myself a highly organized and technology-driven person.<br><br>I made my studies at Henry for Full Stack Web Development. I like to stay updated on the latest trends and technologies in the field, which allows me to have a broad vision and an innovative mindset. 
 
 📞 CONTACT 📞
