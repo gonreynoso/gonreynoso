@@ -1,5 +1,11 @@
-# 💫 About Me:
-👋 Hello! 👋<br><br>My name is Gonzalo Agustin Reynoso and I am from CABA, Buenos Aires, Argentina. I am 30 years old and consider myself a highly organized and technology-driven person.<br><br>Currently studying at Henry for Full Stack Web Development. I am confident that this experience will be valuable for my professional future and will allow me to graduate with a solid foundation in the tech industry.<br><br>In addition to my dedication to my education, I also strive to stay updated on the latest trends and technologies in the field, which allows me to have a broad vision and an innovative mindset. I am excited to see how my skills and knowledge evolve and how I can apply them in the future.<br><br>📞 CONTACT 📞<br><br>📧 Gmail: gonzalo.reynoso9@gmail.com<br>💻 GitHub: https://github.com/gonreynoso
+                     <br>👋 Hello!, I am Gonzalo Reynoso!<br>
+<br>I'm a Full Stack Developer from CABA, Buenos Aires, Argentina.<br>
+<br>I am 30 years old and consider myself a highly organized and technology-driven person.<br><br>I made my studies at Henry for Full Stack Web Development. I like to stay updated on the latest trends and technologies in the field, which allows me to have a broad vision and an innovative mindset. 
+
+📞 CONTACT 📞
+<br><br>
+📧 Gmail: gonzalo.reynoso9@gmail.com<br>
+💻 GitHub: https://github.com/gonreynoso
 
 
 ## 🌐 Socials:
@@ -14,9 +20,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gonreynoso&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=gonreynoso&limit=5&theme=dark&combine_all_yearly_contributions=true)
