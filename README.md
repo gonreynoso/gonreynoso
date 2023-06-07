@@ -2,7 +2,7 @@
 <hr>
 <h3 center>Full Stack Web Developer<h3/>
   
-#![](https://github-readme-stats.vercel.app/api?username=gonreynoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gonreynoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gonreynoso&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gonreynoso&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
