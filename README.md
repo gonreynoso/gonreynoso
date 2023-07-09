@@ -3,7 +3,7 @@
 </div>
 
 <div>
-<h3 align="center"><strong>Full Stack Developer 👩‍💻.</strong></h3>
+<h3 align="center"><strong>Full Stack Developer 👩‍💻</strong></h3>
 <h4 align="center">I am passionate about new challenges,
 and try to solve them with logic thinking and tenacity. I
 am a curious person, I learn quickly and always perfomn
@@ -20,23 +20,19 @@ my job in a responsible and dedicated way</h4>
 </div>
 
 
-## TECHNOLGIES:
+## TECHNOLOGIES:
 <p>Las principales tecnologías que manejo son:</p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>Typescript</li>
   <li>React.js</li>
-  <li>React Native</li>
-  <li>TanStack Query</li>
   <li>Redux</li>
   <li>Material UI</li>
   <li>Bootstrap</li>
   <li>Node.js</li>
   <li>Express.js</li>
-  <li>JWT</li>
-  <li>Passport</li>
+  <li>FireBase</li>
   <li>PostgreSQL</li>
   <li>Sequelize</li>
   <li>GIT</li>
