@@ -1,13 +1,13 @@
 <div align="center">
-<img align="center" width="900px" height="370px" style="width: 100%" src="./Images/Black and Gold Elegant Welcome Youtube Intro (1).gif" alt="banner"/>
+  <img align="center" width="900px" height="370px" style="width: 100%" src="./Images/Black and Gold Elegant Welcome Youtube Intro (1).gif" alt="banner"/>
 </div>
 
 <div>
-<h3 align="center"><strong>Full Stack Developer 👩‍💻</strong></h3>
-<h4 align="center">I am passionate about new challenges,
-and try to solve them with logic thinking and tenacity. I
-am a curious person, I learn quickly and always perfomn
-my job in a responsible and dedicated way</h4>
+  <h3 align="center"><strong>Full Stack Developer 👩‍💻</strong></h3>
+  <h4 align="center">I am passionate about new challenges,
+  and try to solve them with logic thinking and tenacity. I
+  am a curious person, I learn quickly and always perfomn
+  my job in a responsible and dedicated way</h4>
 </div>
 
 <div align="center" style="margin: 13px">
@@ -20,8 +20,8 @@ my job in a responsible and dedicated way</h4>
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"<br>
-    <h4>gonzalo.reynoso9@gmail.com</h4>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"<br>
+      <a href="mailto:gonzalo.reynoso9@gmail.com" target="_blank">Enviar correo electrónico</a>
   </p>
 </div>
 <hr>
