@@ -17,10 +17,9 @@ my job in a responsible and dedicated way</h4>
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     
     alt="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" height="30" width="40" /> 
     </a>
-
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"<br>
     <h4>gonzalo.reynoso9@gmail.com</h4>
   </p>
 </div>
