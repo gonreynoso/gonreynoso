@@ -20,8 +20,8 @@
     </a>
   </p>
   <p>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"<br>
-      <a href="mailto:gonzalo.reynoso9@gmail.com" target="_blank">Enviar correo electrónico</a>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img><br>
+      <a href="mailto:gonzalo.reynoso9@gmail.com"">gonzalo.reynoso9@gmail.com</a>
   </p>
 </div>
 <hr>
