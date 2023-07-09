@@ -1,6 +1,6 @@
-<h1>👋 Hello!, I'm Gonzalo Reynoso!<h1/> 
-<hr>
-<h3 center>Full Stack Web Developer<h3/>
+<div align="center">
+<img align="center" width="900px" style="width: 100%" src="./Images/giphy-backdrop.mp4" alt="banner"/>
+</div>
 
 ## 
 <div align="center">
