@@ -1,10 +1,5 @@
 <div align="center">
-<img align="center" width="900px" style="width: 100%" src="./Images/Black and Gold Elegant Welcome Youtube Intro (1).gif" alt="banner"/>
-</div>
-
-## 
-<div align="center">
-<img align="center" width="900px" style="width: 100%" src="./Images/Banner.gif" alt="banner"/>
+<img align="center" width="900px" height="500px" style="width: 100%" src="./Images/Black and Gold Elegant Welcome Youtube Intro (1).gif" alt="banner"/>
 </div>
 
 <div>
@@ -12,7 +7,17 @@
 <h4 align="center">I am passionate about new challenges,
 and try to solve them with logic thinking and tenacity. I
 am a curious person, I learn quickly and always perfomn
-my job in a responsible and dedicated way</h4></div>
+my job in a responsible and dedicated way</h4>
+</div>
+
+<div align="center" style="margin: 13px">
+<h4><strong>Connect with me:</strong></h4>
+<p>
+<a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" height="30" width="40" />
+</a>
+</p>
+</div>
 
 
 ## TECHNOLGIES:
