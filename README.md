@@ -39,7 +39,7 @@ my job in a responsible and dedicated way</h4>
 </ul>
 
 
-📞 CONTACT 📞
+📞 CONTACT ME 📞
 <div>
   <a href="mailto:gonzaloreynoso9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
@@ -59,8 +59,4 @@ my job in a responsible and dedicated way</h4>
   <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 </div>
 
-## ¿Donde adquirí mis conocimientos? 🙌
-<p>
-  Durante mi formación como Full Stack Web Developer en el Bootcamp de Henry, he tenido la oportunidad de adquirir conocimientos y experiencia en diversas tecnologías, así como      también de trabajar en proyectos prácticos y en equipo.
-</p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
