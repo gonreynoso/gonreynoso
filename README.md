@@ -13,7 +13,9 @@ my job in a responsible and dedicated way</h4>
 <div align="center" style="margin: 13px">
 <h4><strong>Connect with me:</strong></h4>
 <p>
-<a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank">
+<a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank"><br>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+<h4>gonzalo.reynoso9@gmail.com</h4>
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" height="30" width="40" />
 </a>
 </p>
@@ -51,13 +53,5 @@ my job in a responsible and dedicated way</h4>
 </div>
 
 <hr>
-
-📞 CONTACT ME 
-
-<div>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> gonzalo.reynoso9@gmail.com
-</img>
-  <a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
