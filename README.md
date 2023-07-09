@@ -55,7 +55,7 @@ my job in a responsible and dedicated way</h4>
 📞 CONTACT ME 
 
 <div>
-  <a href="mailto:gonzaloreynoso9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:gonzalo.reynoso9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
 
