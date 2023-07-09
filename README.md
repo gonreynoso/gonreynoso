@@ -1,5 +1,5 @@
 <div align="center">
-<img align="center" width="900px" style="width: 100%" src="./Images/giphy-backdrop.gif" alt="banner"/>
+<img align="center" width="900px" style="width: 100%" src="./Images/Black and Gold Elegant Welcome Youtube Intro (1).gif" alt="banner"/>
 </div>
 
 ## 
