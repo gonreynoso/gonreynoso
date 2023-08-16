@@ -1,61 +1,48 @@
-<div align="center">
-  <img align="center" width="900px" height="370px" style="width: 100%" src="./Images/Black and Gold Elegant Welcome Youtube Intro (1).gif" alt="banner"/>
-</div>
+# Hi!, I am Gonzalo Reynoso Full Stack Developer  
 
-<div>
-  <h3 align="center"><strong>Full Stack Developer 👩‍💻</strong></h3>
-  <h4 align="center">I am passionate about new challenges,
-  and try to solve them with logic thinking and tenacity. I
-  am a curious person, I learn quickly and always perfomn
-  my job in a responsible and dedicated way</h4>
-</div>
+## About me
+Graduated at Henry Bootcamp with knowledge gained at CoderHouse too in areas including Javascript, HTML and CSS, GIT, GitHub, React.<br>
+English Level: B1
 
-<div align="center" style="margin: 13px">
-  <h4><strong>Connect with me:</strong></h4>
-  <p>
-    <a href="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"     
-    alt="https://www.linkedin.com/in/gonzalo-reynoso-239531127/" height="30" width="40" /><br>
-    www.linkedin.com/in/gonzalo-reynoso-239531127
-    </a>
-  </p>
-  <p>
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</img><br>
-      <a href="mailto:gonzalo.reynoso9@gmail.com"">gonzalo.reynoso9@gmail.com</a>
-  </p>
-</div>
-<hr>
 
-💻 TECH STACK:
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>Javascript</li>
-  <li>React.js</li>
-  <li>Redux</li>
-  <li>Material UI</li>
-  <li>Bootstrap</li>
-  <li>Node.js</li>
-  <li>Express.js</li>
-  <li>FireBase</li>
-  <li>PostgreSQL</li>
-  <li>Sequelize</li>
-  <li>GIT</li>
-</ul>
+### Works
+* During my time at Henry's I made a single proyect: <br>
+[Pi Countries Code](https://github.com/gonreynoso/Pi-Countries)<br>
+[Deploy](https://picountries-ashen.vercel.app/)
 
-<div style="display: inline-block">
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img height="45px" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI">
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"  />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
-  <img height="45px" width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-</div>
+* To graduate, I worked in a team and we created a website called Devpool to find jobs: <br>
+[DevPoolSoft](https://github.com/JuanQuintero1511/DevPoolSoft)<br>
+[Deploy](https://front-end-beige-two.vercel.app/)
 
-<hr>
+* Web project at CoderHouse, E-commerce: <br>
+[E-commerce code](https://github.com/gonreynoso/CoderHouseReactReynoso)<br>
+[E-commerce deploy](https://coder-house-react-reynoso-epu9bbalr-gonreynoso.vercel.app/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##### Currently, working on my portfolio.
+ 
+### Connect with me
+[Linkedin](www.linkedin.com/in/gonzalo-reynoso-239531127) <br>
+[Gmail](mailto:gonzalo.reynoso9@gmail.com)<br>
+[Henry Talent CV](https://www.talent.soyhenry.com/candidate/13478?hl=es)<br>
+[Resume](https://docs.google.com/document/d/1K6hG7DBmo3XyucGn_n5PVwDeIk3jZcvP/edit?usp=drive_link&ouid=103457044151863966925&rtpof=true&sd=true)<br>
+
+### TECH STACK
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express](https://img.icons8.com/color/48/000000/express.png)
+![Redux](https://img.icons8.com/color/48/000000/redux.png)
+![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)
+![MaterialUI](https://img.icons8.com/color/48/000000/material-ui.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/fluent/48/000000/github.png)
+![Slack](https://img.icons8.com/color/48/000000/slack-new.png)
+![Trello](https://img.icons8.com/color/48/000000/trello.png)
+![VisualStudioCode](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
+
+
+#### 👋 GREETINGS!! 
