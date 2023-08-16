@@ -1,6 +1,6 @@
-# Hi!, I am Gonzalo Reynoso Full Stack Developer  
+#  Hi!, I am Gonzalo Reynoso Full Stack Developer  
 
-## About me
+### About me
 Graduated at Henry Bootcamp with knowledge gained at CoderHouse too in areas including Javascript, HTML and CSS, GIT, GitHub, React.<br>
 English Level: B1
 
