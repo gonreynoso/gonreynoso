@@ -8,15 +8,12 @@ English Level: B1
 ### Works
 * During my time at Henry's I made a single proyect: <br>
 [Pi Countries Code](https://github.com/gonreynoso/Pi-Countries)<br>
-[Deploy](https://picountries-ashen.vercel.app/)
 
 * To graduate, I worked in a team and we created a website called Devpool to find jobs: <br>
 [DevPoolSoft](https://github.com/JuanQuintero1511/DevPoolSoft)<br>
-[Deploy](https://front-end-beige-two.vercel.app/)
 
 * Web project at CoderHouse, E-commerce: <br>
 [E-commerce code](https://github.com/gonreynoso/CoderHouseReactReynoso)<br>
-[E-commerce deploy](https://coder-house-react-reynoso-epu9bbalr-gonreynoso.vercel.app/)
 
 ##### Currently, working on my portfolio.
  
@@ -24,7 +21,6 @@ English Level: B1
 [Linkedin](www.linkedin.com/in/gonzalo-reynoso-239531127) <br>
 [Gmail](mailto:gonzalo.reynoso9@gmail.com)<br>
 [Henry Talent CV](https://www.talent.soyhenry.com/candidate/13478?hl=es)<br>
-[Resume](https://docs.google.com/document/d/1K6hG7DBmo3XyucGn_n5PVwDeIk3jZcvP/edit?usp=drive_link&ouid=103457044151863966925&rtpof=true&sd=true)<br>
 
 ### TECH STACK
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
