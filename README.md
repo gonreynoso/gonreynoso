@@ -105,8 +105,10 @@
 
 ### <u> Currently I'm learning: </u>
 <br>
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 &nbsp;
+
 <br>
 
 ### <u> In future, I will learn: </u>
