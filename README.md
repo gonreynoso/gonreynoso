@@ -22,7 +22,7 @@ Freelance developer building production web platforms under **[Kensiweb](https:/
 &nbsp;&nbsp;
 <a href="https://kensiweb.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=n9d0Hm43JCPK&format=png&color=000000"> kensiweb.com</a>
 &nbsp;&nbsp;
-<a href="https://gonreynoso.dev"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=n9d0Hm43JCPK&format=png&color=000000"> gonreynoso.dev</a>
+<a href="https://gonreynoso.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=n9d0Hm43JCPK&format=png&color=000000"> gonreynoso.com</a>
 
 <hr>
 
